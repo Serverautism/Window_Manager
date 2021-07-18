@@ -9,4 +9,4 @@ create a window-layout save it and restore it anytime
                                                                /____/             
 made by Adam G.
 
-german only but it has (bad) english log output
+german only but it has (bad) english log output :)
